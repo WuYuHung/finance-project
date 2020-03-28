@@ -6,6 +6,6 @@ A finance & computer science side project.
 
 ## Collaborators
 
-Marzear(Edward Wu)
-simon871028(Simon Hsieh)
-michael071020
+* Marzear(Edward Wu)
+* simon871028(Simon Hsieh)
+* michael071020
