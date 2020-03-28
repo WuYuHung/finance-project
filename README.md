@@ -2,9 +2,9 @@
 
 A finance & computer science side project.
 
-# Description
+## Description
 
-# Collaborators
+## Collaborators
 
 Marzear(Edward Wu)
 simon871028(Simon Hsieh)
